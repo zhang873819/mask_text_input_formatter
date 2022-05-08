@@ -1,3 +1,19 @@
+## [2.3.0]
+
+Fix #62
+
+## [2.2.0]
+
+Fix eager autocompletion #68
+
+## [2.1.0]
+
+Added support for eager autocompletion. Thanks to @jyardin
+
+## [2.0.2]
+
+Add analysis_options
+
 ## [2.0.1]
 
 Fix #52
